@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-simulated-annealing-metropolis-skill
+name: genpark-simulated-annealing-metropolis-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
