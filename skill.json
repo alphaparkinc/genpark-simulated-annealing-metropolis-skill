@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-simulated-annealing-metropolis-skill",
+  "version": "1.0.0",
+  "description": "Simulated Annealing global search with Metropolis probabilistic acceptance criterion and geometric cooling.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
